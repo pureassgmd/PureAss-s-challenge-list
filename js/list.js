@@ -2,7 +2,7 @@
   list: [
     
   ],
-  version: [3, 5, 0],
+  version: [1, 0, 0],
 };
 const list = d.list;
 const version = d.version;
