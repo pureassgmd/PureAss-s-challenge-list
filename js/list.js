@@ -2,8 +2,6 @@
   list: [
         /*=============================================================================*/
     {
-      vids: [
-      ],
       name: "dih v3",
       author: "dreathegooberx",
 	  desc: "15 CPS Spam. Still not verified.",
