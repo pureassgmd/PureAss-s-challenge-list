@@ -1,6 +1,25 @@
  const d = {
   list: [
-    
+    {
+	"vids": [
+		{
+			"user": "To be verified by rob01",
+			"link": "No link",
+			"percent": ("not verified"),
+			"hz": "30/60"
+		},  
+	],        
+	name: "dih v3",
+	author: "dreathegooberX",
+	more: "uh yeah whatever this shit is",
+	desc: "",
+	id: "Not out currently",
+	pass: "Free To Copy",
+	percentToQualify: 43,
+	verificationVid: "Not verified.",
+	phacked: false,
+	hacked: false
+},
   ],
   version: [1, 0, 0],
 };
