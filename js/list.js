@@ -8,7 +8,7 @@
       author: "dreathegooberx",
 	  desc: "15 CPS Spam. Still not verified.",
       id: "Not out.",
-      percentToQualify: 100,
+      percentToQualify: 300,
       verificationVid: "https://www.youtube.com/watch?v=ydYqELe-uA8",
     },
         /*=============================================================================*/
