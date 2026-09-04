@@ -1,19 +1,17 @@
  const d = {
   list: [
+        /*=============================================================================*/
     {
-	"vids": [
-	],        
-	name: "dih v3",
-	author: "dreathegooberX",
-	more: "uh yeah whatever this shit is",
-	desc: "15 cps spam btw im crine",
-	id: "Not out currently",
-	pass: "Free To Copy",
-	percentToQualify: 43,
-	verificationVid: "Not verified.",
-	phacked: false,
-	hacked: false
-},
+      vids: [
+      ],
+      name: "dih v3",
+      author: "dreathegooberx",
+	  desc: "15 CPS Spam. Still not verified.",
+      id: "Not out.",
+      percentToQualify: 100,
+      verificationVid: "https://www.youtube.com/watch?v=ydYqELe-uA8",
+    },
+        /*=============================================================================*/
   ],
   version: [1, 0, 0],
 };
